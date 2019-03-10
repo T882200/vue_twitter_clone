@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.9d0e1afb87daa2dbf74ba6ad0c908879.css"],"names":[],"mappings":"AACA,KACE,yBAA0B,AAC1B,iBAAkB,AAClB,mBAAqB,CACtB,AACD,WACE,aAAe,CAChB","file":"app.9d0e1afb87daa2dbf74ba6ad0c908879.css","sourcesContent":["\nbody {\n  background-color: #f7f7f7;\n  padding-top: 50px;\n  padding-bottom: 50px;\n}\n.is-danger {\n  color: #9f3a38;\n}\n"]}

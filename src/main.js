@@ -11,7 +11,7 @@ import router from './router'
 window.axios = axios
 
 // Global axios defaults
-axios.defaults.baseURL = 'https://scotch-io-projects-t882200.c9users.io:8080'
+axios.defaults.baseURL = 'https://twitter-clone-b.herokuapp.com/'
 
 // register vee validate plugin
 Vue.use(VeeValidate)
